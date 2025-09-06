@@ -1,0 +1,493 @@
+2025-09-04 22:34:51,572 - __main__ - INFO - Login attempt for username: olivia
+2025-09-04 22:34:51,598 - __main__ - WARNING - Login failed for username: olivia
+2025-09-04 22:35:01,222 - __main__ - INFO - Login attempt for username: demo_user
+2025-09-04 22:35:01,224 - __main__ - WARNING - Login failed for username: demo_user
+2025-09-04 22:52:21,755 - __main__ - INFO - Login attempt for username: olivia
+2025-09-04 22:52:21,774 - __main__ - WARNING - Login failed for username: olivia
+2025-09-04 22:52:40,188 - __main__ - INFO - Registration attempt for username: 220231
+2025-09-04 22:52:40,191 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-04 22:52:40,741 - __main__ - INFO - User registered successfully: 220231
+2025-09-04 22:53:48,034 - __main__ - INFO - Login attempt for username: 220231
+2025-09-04 22:53:48,520 - __main__ - INFO - Login successful for username: 220231
+2025-09-04 23:24:25,720 - __main__ - INFO - Login attempt for username: 220231
+2025-09-04 23:24:25,723 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-04 23:24:26,207 - __main__ - WARNING - Login failed for username: 220231
+2025-09-04 23:24:37,298 - __main__ - INFO - Login attempt for username: 220231
+2025-09-04 23:24:37,715 - __main__ - INFO - Login successful for username: 220231
+2025-09-04 23:25:05,844 - __main__ - INFO - Login attempt for username: olivia
+2025-09-04 23:25:05,846 - __main__ - WARNING - Login failed for username: olivia
+2025-09-04 23:30:05,123 - __main__ - INFO - Login attempt for username: 220231
+2025-09-04 23:30:05,596 - __main__ - INFO - Login successful for username: 220231
+2025-09-04 23:30:40,069 - __main__ - INFO - Registration attempt for username: 220161
+2025-09-04 23:30:40,420 - __main__ - INFO - User registered successfully: 220161
+2025-09-04 23:30:58,268 - __main__ - INFO - Login attempt for username: 220161
+2025-09-04 23:30:58,720 - __main__ - INFO - Login successful for username: 220161
+2025-09-04 23:41:26,005 - __main__ - INFO - Login attempt for username: 220231
+2025-09-04 23:41:26,993 - __main__ - INFO - Login successful for username: 220231
+2025-09-04 23:41:56,185 - __main__ - INFO - Registration attempt for username: 220121
+2025-09-04 23:41:56,190 - __main__ - WARNING - Registration failed - email already exists: demo@example.com
+2025-09-04 23:41:59,513 - __main__ - INFO - Registration attempt for username: 220121
+2025-09-04 23:41:59,517 - __main__ - WARNING - Registration failed - email already exists: demo@example.com
+2025-09-04 23:42:00,578 - __main__ - INFO - Registration attempt for username: 220121
+2025-09-04 23:42:00,585 - __main__ - WARNING - Registration failed - email already exists: demo@example.com
+2025-09-04 23:42:15,080 - __main__ - INFO - Registration attempt for username: 220121
+2025-09-04 23:42:15,083 - __main__ - WARNING - Registration failed - email already exists: demo@example.com
+2025-09-04 23:42:35,821 - __main__ - INFO - Registration attempt for username: 220121
+2025-09-04 23:42:36,819 - __main__ - INFO - User registered successfully: 220121
+2025-09-04 23:55:33,099 - __main__ - INFO - Registration attempt for username: olivia
+2025-09-04 23:55:33,498 - __main__ - INFO - User registered successfully: olivia
+2025-09-04 23:56:46,662 - __main__ - INFO - Login attempt for username: olivia
+2025-09-04 23:56:47,634 - __main__ - INFO - Login successful for username: olivia
+2025-09-04 23:57:16,126 - __main__ - INFO - Registration attempt for username: s_tuggy
+2025-09-04 23:57:17,038 - __main__ - INFO - User registered successfully: s_tuggy
+2025-09-05 00:02:41,597 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 00:02:41,612 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 00:02:42,149 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 13:20:18,720 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 13:20:18,721 - __main__ - INFO - Username: 220231, Email: watungwaolivia@gmail.com
+2025-09-05 13:20:18,747 - __main__ - WARNING - Registration failed - username already exists: 220231
+2025-09-05 13:20:18,748 - __main__ - ERROR - Registration failed with error: 
+2025-09-05 13:20:27,441 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 13:20:27,441 - __main__ - INFO - Username: 220237, Email: watungwaolivia@gmail.com
+2025-09-05 13:20:27,448 - __main__ - WARNING - Registration failed - email already exists: watungwaolivia@gmail.com
+2025-09-05 13:20:27,449 - __main__ - ERROR - Registration failed with error: 
+2025-09-05 13:20:36,058 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 13:20:36,058 - __main__ - INFO - Username: 220237, Email: watungwaolivi@gmail.com
+2025-09-05 13:20:36,063 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 13:20:37,112 - __main__ - INFO - Password hashed successfully
+2025-09-05 13:20:37,140 - __main__ - INFO - User saved to database with ID: 6
+2025-09-05 13:20:37,143 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjAyMzciLCJleHAiOjE3NTcwNzMwMzd9.8-2H2up_zMSgb96j4IGJVOYKI3SJeme-AWDk4QSb8C4
+2025-09-05 13:20:37,143 - __main__ - INFO - User registered and automatically logged in: 220237
+2025-09-05 13:27:46,609 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 13:27:47,572 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 13:52:49,371 - __main__ - INFO - Protected route accessed by user: 220231
+2025-09-05 13:52:49,379 - __main__ - INFO - Protected route accessed by user: 220231
+2025-09-05 13:53:02,581 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 13:53:03,440 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 13:53:20,499 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 13:53:21,461 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 13:53:49,846 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 13:53:49,846 - __main__ - INFO - Username: 220134, Email: olivia@example.co
+2025-09-05 13:53:50,824 - __main__ - INFO - Password hashed successfully
+2025-09-05 13:53:50,869 - __main__ - INFO - User saved to database with ID: 7
+2025-09-05 13:53:50,870 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjAxMzQiLCJleHAiOjE3NTcwNzUwMzB9.Q7tjtyqvCAfWqjWy0Y5hkf0-ITRIftwYikzthp7PDQg
+2025-09-05 13:53:50,870 - __main__ - INFO - User registered and automatically logged in: 220134
+2025-09-05 13:54:20,201 - __main__ - INFO - Login attempt for username: 220134
+2025-09-05 13:54:21,138 - __main__ - INFO - Login successful for username: 220134
+2025-09-05 15:33:20,445 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 15:33:20,513 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 15:33:21,083 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 15:54:50,468 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 15:54:50,953 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 15:58:56,532 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 15:58:56,532 - __main__ - INFO - Username: sarah, Email: olivia@example.c
+2025-09-05 15:58:56,915 - __main__ - INFO - Password hashed successfully
+2025-09-05 15:58:56,973 - __main__ - INFO - User saved to database with ID: 8
+2025-09-05 15:58:56,974 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzYXJhaCIsImV4cCI6MTc1NzA4MjUzNn0.-CZDiGq-TRGijcIO12cUUu4A0i2lQA-7SUFVkU2Guu4
+2025-09-05 15:58:56,974 - __main__ - INFO - User registered and automatically logged in: sarah
+2025-09-05 15:59:09,552 - __main__ - INFO - Login attempt for username: sarah
+2025-09-05 15:59:10,233 - __main__ - INFO - Login successful for username: sarah
+2025-09-05 19:34:09,694 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 19:34:10,694 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 19:41:31,076 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 19:41:31,106 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 19:41:32,170 - __main__ - WARNING - Login failed for username: 220231
+2025-09-05 19:41:46,324 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 19:41:47,357 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 19:41:59,809 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 19:42:00,742 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:04:47,114 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:04:47,459 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:05:56,280 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:05:56,291 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:06:17,903 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 20:06:17,903 - __main__ - INFO - Username: 22012, Email: demo@example.com
+2025-09-05 20:06:17,919 - __main__ - WARNING - Registration failed - email already exists: demo@example.com
+2025-09-05 20:06:17,919 - __main__ - ERROR - Registration failed with error: 
+2025-09-05 20:06:21,823 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 20:06:21,824 - __main__ - INFO - Username: 22012, Email: demo@example.co
+2025-09-05 20:06:22,868 - __main__ - INFO - Password hashed successfully
+2025-09-05 20:06:22,896 - __main__ - INFO - User saved to database with ID: 9
+2025-09-05 20:06:22,897 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjAxMiIsImV4cCI6MTc1NzA5NzM4Mn0.D9VX4C1QcpOOsSe-reC97xHbJgwdjwS5wk3oRzGKMZ8
+2025-09-05 20:06:22,897 - __main__ - INFO - User registered and automatically logged in: 22012
+2025-09-05 20:07:31,524 - __main__ - INFO - Protected route accessed by user: 22012
+2025-09-05 20:07:31,529 - __main__ - INFO - Protected route accessed by user: 22012
+2025-09-05 20:07:39,644 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:07:39,929 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:09:37,412 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:09:37,417 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:09:45,413 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:09:45,827 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:09:52,382 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:09:52,385 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:10:03,014 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:10:03,446 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:14:22,211 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:14:22,221 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:16:22,234 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:16:22,658 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:21:19,449 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:21:19,454 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:21:25,092 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:21:25,520 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:27:16,219 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:27:16,239 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:28:51,700 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:28:51,722 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 20:28:52,215 - __main__ - WARNING - Login failed for username: olivia
+2025-09-05 20:29:01,755 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:29:02,272 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:29:51,382 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 20:29:51,382 - __main__ - INFO - Username: 2261, Email: masvikenin@africau.e
+2025-09-05 20:29:51,853 - __main__ - INFO - Password hashed successfully
+2025-09-05 20:29:51,864 - __main__ - INFO - User saved to database with ID: 10
+2025-09-05 20:29:51,865 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjYxIiwiZXhwIjoxNzU3MDk4NzkxfQ.wv-11jdAAb1g-isV9RNW_ADrNbyy2jWSouA9i5Lwgpc
+2025-09-05 20:29:51,865 - __main__ - INFO - User registered and automatically logged in: 2261
+2025-09-05 20:45:51,233 - __main__ - INFO - Login attempt for username: demo_user
+2025-09-05 20:45:51,294 - __main__ - WARNING - Login failed for username: demo_user
+2025-09-05 20:46:09,914 - __main__ - INFO - Login attempt for username: medicalkiosk
+2025-09-05 20:46:09,916 - __main__ - WARNING - Login failed for username: medicalkiosk
+2025-09-05 20:46:10,904 - __main__ - INFO - Login attempt for username: medicalkiosk
+2025-09-05 20:46:10,906 - __main__ - WARNING - Login failed for username: medicalkiosk
+2025-09-05 20:46:45,390 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 20:46:45,902 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 20:53:00,263 - __main__ - INFO - Protected route accessed by user: 220231
+2025-09-05 20:53:00,284 - __main__ - INFO - Protected route accessed by user: 220231
+2025-09-05 20:53:08,863 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 20:53:10,229 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 20:57:50,618 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:57:50,628 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 20:58:27,884 - __main__ - INFO - Login attempt for username: demo_user
+2025-09-05 20:58:27,887 - __main__ - WARNING - Login failed for username: demo_user
+2025-09-05 21:01:12,949 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 21:01:13,485 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 21:10:19,519 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 21:10:19,537 - __main__ - INFO - Protected route accessed by user: olivia
+2025-09-05 21:11:26,066 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 21:11:26,515 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 21:56:34,305 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 21:56:34,715 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 22:23:30,891 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 22:23:30,924 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 22:23:31,403 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 22:23:43,494 - __main__ - INFO - Login attempt for username: olivia
+2025-09-05 22:23:43,928 - __main__ - INFO - Login successful for username: olivia
+2025-09-05 22:25:15,655 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 22:25:15,655 - __main__ - INFO - Username: er, Email: watungwaol@gmail.com
+2025-09-05 22:25:16,163 - __main__ - INFO - Password hashed successfully
+2025-09-05 22:25:16,178 - __main__ - INFO - User saved to database with ID: 11
+2025-09-05 22:25:16,178 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAiZXIiLCAiZXhwIjogMTc1NzA5ODUxNi4xNzg5NjUsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.23bi9RRDsJfi8juEpDIDlg
+2025-09-05 22:25:16,178 - __main__ - INFO - User registered and automatically logged in: er
+2025-09-05 22:29:49,892 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 22:29:50,368 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 22:36:35,215 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 22:36:35,244 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 22:36:35,791 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 22:51:47,268 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 22:51:48,281 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:00:10,642 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:00:11,670 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:00:27,324 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:00:28,413 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:06:50,971 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:06:52,045 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:16:30,939 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:16:31,995 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:16:46,538 - __main__ - INFO - Login attempt for username: 220161
+2025-09-05 23:16:47,528 - __main__ - WARNING - Login failed for username: 220161
+2025-09-05 23:16:52,296 - __main__ - INFO - Login attempt for username: 220161
+2025-09-05 23:16:53,266 - __main__ - INFO - Login successful for username: 220161
+2025-09-05 23:17:19,621 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 23:17:19,623 - __main__ - INFO - Username: 2231, Email: watungwaoll@gmail.com
+2025-09-05 23:17:20,604 - __main__ - INFO - Password hashed successfully
+2025-09-05 23:17:20,733 - __main__ - INFO - User saved to database with ID: 12
+2025-09-05 23:17:20,733 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAiMjIzMSIsICJleHAiOiAxNzU3MTAxNjQwLjczMzk5NSwgInR5cGUiOiAibW9ja190b2tlbiJ9.ktUXyg68ukyXCUjIUXVlWA
+2025-09-05 23:17:20,733 - __main__ - INFO - User registered and automatically logged in: 2231
+2025-09-05 23:19:47,314 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:19:48,218 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:26:45,272 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:26:45,321 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 23:26:46,429 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:30:23,226 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:30:24,469 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:32:56,905 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:32:57,683 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:35:54,806 - __main__ - INFO - Login attempt for username: 220231
+2025-09-05 23:35:54,875 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 23:35:55,955 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:36:46,011 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-05 23:36:46,012 - __main__ - INFO - Username: oli, Email: watungwaolsl@gmail.com
+2025-09-05 23:36:47,011 - __main__ - INFO - Password hashed successfully
+2025-09-05 23:36:47,055 - __main__ - INFO - User saved to database with ID: 13
+2025-09-05 23:36:47,056 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAib2xpIiwgImV4cCI6IDE3NTcxMDI4MDcuMDU2MjY4LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.16uyBR7r3FgCmwsKcjHdGw
+2025-09-05 23:36:47,056 - __main__ - INFO - User registered and automatically logged in: oli
+2025-09-05 23:36:56,666 - __main__ - INFO - Login attempt for username: oli
+2025-09-05 23:36:57,637 - __main__ - INFO - Login successful for username: oli
+2025-09-05 23:39:08,674 - __main__ - INFO - Login attempt for username: oli
+2025-09-05 23:39:09,642 - __main__ - INFO - Login successful for username: oli
+2025-09-05 23:45:01,389 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-05 23:45:01,393 - __main__ - INFO - Username: 220231
+2025-09-05 23:45:01,437 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-05 23:45:02,486 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMDMzMDIuNDg1Nzg2LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.po2rcfn-RzARP2Fa21FzDA
+2025-09-05 23:45:02,486 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:52:00,848 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-05 23:52:00,854 - __main__ - INFO - Username: 220231
+2025-09-05 23:52:01,984 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMDM3MjEuOTgyNDYsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.7ByDbmlSG_yBle2NXlNF3Q
+2025-09-05 23:52:01,984 - __main__ - INFO - Login successful for username: 220231
+2025-09-05 23:58:57,032 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-05 23:58:57,034 - __main__ - INFO - Username: 220231
+2025-09-05 23:58:57,462 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMDQxMzcuNDYwNDM4LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.fz4i2RPWiAJ3Wn7wZnbS0A
+2025-09-05 23:58:57,462 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 00:09:43,586 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 00:09:43,588 - __main__ - INFO - Username: 220231
+2025-09-06 00:09:43,640 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-06 00:09:44,669 - __main__ - WARNING - Login failed for username: 220231
+2025-09-06 00:09:53,028 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 00:09:53,029 - __main__ - INFO - Username: 220231
+2025-09-06 00:09:54,091 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMDQ3OTQuMDgwODU4LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.3brIvKd6E0UtotqYBULN1g
+2025-09-06 00:09:54,091 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 00:27:57,602 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 00:27:57,634 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-06 00:27:58,810 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 00:35:44,268 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 00:35:45,376 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 00:39:00,120 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 00:39:00,526 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 00:39:20,577 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:39:20,578 - __main__ - INFO - Username: oliv, Email: demo@example.c
+2025-09-06 00:39:21,099 - __main__ - INFO - Password hashed successfully
+2025-09-06 00:39:21,158 - __main__ - INFO - User saved to database with ID: 14
+2025-09-06 00:39:21,159 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvbGl2IiwiZXhwIjoxNzU3MTEzNzYxfQ.q1kbEjxykw0kx0UFsnFxEO2kAYry-zx0yS4IHx6qdDw
+2025-09-06 00:39:21,159 - __main__ - INFO - User registered and automatically logged in: oliv
+2025-09-06 00:39:33,031 - __main__ - INFO - Login attempt for username: oliv
+2025-09-06 00:39:33,428 - __main__ - INFO - Login successful for username: oliv
+2025-09-06 00:42:54,172 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:42:54,173 - __main__ - INFO - Username: olivia, Email: watungwaolivia@gmail.com
+2025-09-06 00:42:54,177 - __main__ - WARNING - Registration failed - username already exists: olivia
+2025-09-06 00:42:54,177 - __main__ - ERROR - Registration failed with error: 
+2025-09-06 00:43:01,640 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:43:01,640 - __main__ - INFO - Username: olivi, Email: watungwaolivia@gmail.com
+2025-09-06 00:43:01,643 - __main__ - WARNING - Registration failed - email already exists: watungwaolivia@gmail.com
+2025-09-06 00:43:01,643 - __main__ - ERROR - Registration failed with error: 
+2025-09-06 00:43:07,483 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:43:07,483 - __main__ - INFO - Username: olivi, Email: watungwaolivi@gmail.com
+2025-09-06 00:43:07,485 - __main__ - WARNING - Registration failed - email already exists: watungwaolivi@gmail.com
+2025-09-06 00:43:07,485 - __main__ - ERROR - Registration failed with error: 
+2025-09-06 00:43:12,064 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:43:12,064 - __main__ - INFO - Username: olivi, Email: watungwaolivi@gmail.com
+2025-09-06 00:43:12,067 - __main__ - WARNING - Registration failed - email already exists: watungwaolivi@gmail.com
+2025-09-06 00:43:12,067 - __main__ - ERROR - Registration failed with error: 
+2025-09-06 00:43:17,788 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 00:43:17,788 - __main__ - INFO - Username: olivi, Email: watungwaoliv@gmail.com
+2025-09-06 00:43:18,147 - __main__ - INFO - Password hashed successfully
+2025-09-06 00:43:18,156 - __main__ - INFO - User saved to database with ID: 15
+2025-09-06 00:43:18,157 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvbGl2aSIsImV4cCI6MTc1NzExMzk5OH0.ZPitGxMHrIn-fdNEwG6CQKFvFi8AP8ilAJFFNE0W_Zk
+2025-09-06 00:43:18,157 - __main__ - INFO - User registered and automatically logged in: olivi
+2025-09-06 00:43:30,035 - __main__ - INFO - Login attempt for username: olivi
+2025-09-06 00:43:30,514 - __main__ - INFO - Login successful for username: olivi
+2025-09-06 00:52:04,580 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 00:52:05,019 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 01:04:38,438 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 01:04:38,898 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 01:14:16,627 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 01:14:17,157 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 01:18:22,403 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 01:18:22,405 - __main__ - INFO - Username: olili, Email: watungwaolhhsl@gmail.com
+2025-09-06 01:18:22,786 - __main__ - INFO - Password hashed successfully
+2025-09-06 01:18:22,834 - __main__ - INFO - User saved to database with ID: 16
+2025-09-06 01:18:22,834 - __main__ - INFO - Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvbGlsaSIsImV4cCI6MTc1NzExNjEwMn0.W52EweOHrcVwpx_r3r-2C6MFVBJ4Ap7I22dvXK-X_J0
+2025-09-06 01:18:22,835 - __main__ - INFO - User registered and automatically logged in: olili
+2025-09-06 01:18:33,126 - __main__ - INFO - Login attempt for username: olili
+2025-09-06 01:18:33,526 - __main__ - INFO - Login successful for username: olili
+2025-09-06 01:22:26,665 - __main__ - INFO - Login attempt for username: 220231
+2025-09-06 01:22:27,108 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 02:02:52,024 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 02:02:52,025 - __main__ - INFO - Username: olivia
+2025-09-06 02:02:52,461 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-06 02:02:52,791 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAib2xpdmlhIiwgImV4cCI6IDE3NTcxMTE1NzIuNzkxMjQzLCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.yvIk-JP3q_bgybAnYnhshw
+2025-09-06 02:02:52,792 - __main__ - INFO - Login successful for username: olivia
+2025-09-06 02:03:40,947 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 02:03:40,948 - __main__ - INFO - Username: 220231
+2025-09-06 02:03:41,386 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMTE2MjEuMzg2ODUsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.xnVhARkoaQnLoMc5HvH1WQ
+2025-09-06 02:03:41,386 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 02:03:59,866 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 02:03:59,867 - __main__ - INFO - Username: oivia, Email: watungwaolhsl@gmail.com
+2025-09-06 02:04:00,412 - __main__ - INFO - Password hashed successfully
+2025-09-06 02:04:00,429 - __main__ - INFO - User saved to database with ID: 17
+2025-09-06 02:04:00,430 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAib2l2aWEiLCAiZXhwIjogMTc1NzExMTY0MC40Mjk5MTIsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.rGb7GN-gG8dLVDQID_Ln5A
+2025-09-06 02:04:00,430 - __main__ - INFO - User registered and automatically logged in: oivia
+2025-09-06 02:04:15,279 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 02:04:15,279 - __main__ - INFO - Username: oivia
+2025-09-06 02:04:15,728 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAib2l2aWEiLCAiZXhwIjogMTc1NzExMTY1NS43MjgyNjcsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.ONVSDjywz5MZ-k0YXivrvg
+2025-09-06 02:04:15,728 - __main__ - INFO - Login successful for username: oivia
+2025-09-06 02:28:27,692 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 02:28:27,693 - __main__ - INFO - Username: demo@example.com, Email: demo@example.c
+2025-09-06 02:28:27,737 - __main__ - WARNING - Registration failed - email already exists: demo@example.c
+2025-09-06 02:28:27,740 - __main__ - ERROR - Registration failed with error: 
+2025-09-06 02:28:37,644 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 02:28:37,644 - __main__ - INFO - Username: demo@example.com, Email: demo2@example.com
+2025-09-06 02:28:38,098 - __main__ - INFO - Password hashed successfully
+2025-09-06 02:28:38,117 - __main__ - INFO - User saved to database with ID: 18
+2025-09-06 02:28:38,118 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAiZGVtb0BleGFtcGxlLmNvbSIsICJleHAiOiAxNzU3MTEzMTE4LjExNzc0NCwgInR5cGUiOiAibW9ja190b2tlbiJ9.2ekxDjnpsqIEzTS8M43VoQ
+2025-09-06 02:28:38,118 - __main__ - INFO - User registered and automatically logged in: demo@example.com
+2025-09-06 02:29:56,130 - __main__ - INFO - Creating todo for user demo@example.com: title='rrrr' description=None
+2025-09-06 02:29:56,151 - __main__ - INFO - Todo created successfully: 4
+2025-09-06 02:29:59,963 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:29:59,988 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:04,228 - __main__ - INFO - Deleting todo 4 for user demo@example.com
+2025-09-06 02:30:04,244 - __main__ - INFO - Todo deleted successfully: 4
+2025-09-06 02:30:12,602 - __main__ - INFO - Creating todo for user demo@example.com: title='x' description='g'
+2025-09-06 02:30:12,613 - __main__ - INFO - Todo created successfully: 4
+2025-09-06 02:30:15,325 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:15,338 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:18,877 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:18,892 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:19,018 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:19,030 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:19,669 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:19,681 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:20,555 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:20,568 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:21,477 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:21,488 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:21,997 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:22,008 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:23,851 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:23,863 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:24,396 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:24,408 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:25,921 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:25,936 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:26,403 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:26,417 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:27,391 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:27,406 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:28,044 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=True
+2025-09-06 02:30:28,055 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:30:28,709 - __main__ - INFO - Updating todo 4 for user demo@example.com: completed=False
+2025-09-06 02:30:28,721 - __main__ - INFO - Todo updated successfully: 4
+2025-09-06 02:50:27,593 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 02:50:27,603 - __main__ - INFO - Username: 220231
+2025-09-06 02:50:27,787 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-06 02:50:28,243 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMTQ0MjguMjQyODEsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.zi7_Sc6NLmLzyZyXYHSWiQ
+2025-09-06 02:50:28,244 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 02:50:53,999 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 02:50:53,999 - __main__ - INFO - Username: qaw, Email: qaw@example.com
+2025-09-06 02:50:54,434 - __main__ - INFO - Password hashed successfully
+2025-09-06 02:50:54,457 - __main__ - INFO - User saved to database with ID: 19
+2025-09-06 02:50:54,457 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAicWF3IiwgImV4cCI6IDE3NTcxMTQ0NTQuNDU3MywgInR5cGUiOiAibW9ja190b2tlbiJ9.qXb50Pi-v0xFrI0YfMofyA
+2025-09-06 02:50:54,457 - __main__ - INFO - User registered and automatically logged in: qaw
+2025-09-06 03:09:10,468 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:09:10,472 - __main__ - INFO - Username: 220231
+2025-09-06 03:09:10,901 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMTU1NTAuOTAwMTYxLCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.rCHxk9l1IEuEZOrODnO2Hw
+2025-09-06 03:09:10,901 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 03:14:42,829 - __main__ - INFO - === REGISTRATION STARTED ===
+2025-09-06 03:14:42,829 - __main__ - INFO - Username: q2w, Email: q2w@example.com
+2025-09-06 03:14:43,234 - __main__ - INFO - Password hashed successfully
+2025-09-06 03:14:43,269 - __main__ - INFO - User saved to database with ID: 20
+2025-09-06 03:14:43,269 - __main__ - INFO - Mock token generated successfully: mock_eyJzdWIiOiAicTJ3IiwgImV4cCI6IDE3NTcxMTU4ODMuMjY5MTQsICJ0eXBlIjogIm1vY2tfdG9rZW4ifQ==.3wKRZD5KTN-UXh5SAutCfA
+2025-09-06 03:14:43,269 - __main__ - INFO - User registered and automatically logged in: q2w
+2025-09-06 03:17:07,267 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:17:07,268 - __main__ - INFO - Username: 220231
+2025-09-06 03:17:08,004 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMTYwMjguMDA0MzQyLCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.iOOCypbNwYVqmyjjFUURLQ
+2025-09-06 03:17:08,005 - __main__ - INFO - Login successful for username: 220231
+2025-09-06 03:17:49,199 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:17:49,199 - __main__ - INFO - Username: olivia
+2025-09-06 03:17:49,516 - __main__ - WARNING - Login failed for username: olivia
+2025-09-06 03:17:56,192 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:17:56,192 - __main__ - INFO - Username: oli
+2025-09-06 03:17:56,594 - __main__ - WARNING - Login failed for username: oli
+2025-09-06 03:17:56,876 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:17:56,876 - __main__ - INFO - Username: oli
+2025-09-06 03:17:57,271 - __main__ - WARNING - Login failed for username: oli
+2025-09-06 03:19:35,188 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:19:35,188 - __main__ - INFO - Username: olivia
+2025-09-06 03:19:35,571 - __main__ - WARNING - Login failed for username: olivia
+2025-09-06 03:19:43,818 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:19:43,818 - __main__ - INFO - Username: olivia
+2025-09-06 03:19:44,252 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAib2xpdmlhIiwgImV4cCI6IDE3NTcxMTYxODQuMjUyMjE2LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.jUbb14karkW3jCsdz9DVCg
+2025-09-06 03:19:44,252 - __main__ - INFO - Login successful for username: olivia
+2025-09-06 03:31:59,610 - __main__ - INFO - === LOGIN ATTEMPT ===
+2025-09-06 03:31:59,610 - __main__ - INFO - Username: 220231
+2025-09-06 03:31:59,918 - __main__ - INFO - Generated token: mock_eyJzdWIiOiAiMjIwMjMxIiwgImV4cCI6IDE3NTcxMTY5MTkuOTE3OTE0LCAidHlwZSI6ICJtb2NrX3Rva2VuIn0=.ImFGzEOvQ2Z0sTKTrcndug
+2025-09-06 03:31:59,918 - __main__ - INFO - Login successful for username: 220231

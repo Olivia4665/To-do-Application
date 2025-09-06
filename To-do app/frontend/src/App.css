@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-eucalyptus {
+  background-color: #CDD4B1;
+}
+
+.bg-pistachio {
+  background-color: #EBECCC;
+}
+
+.bg-peach {
+  background-color: #FEECD0;
+}
+
+.bg-ivory {
+  background-color: #FFF9E2;
+}
+
+.bg-clay {
+  background-color: #DCA278;
+}
+
+.text-eucalyptus {
+  color: #CDD4B1;
+}
+
+.text-pistachio {
+  color: #EBECCC;
+}
+
+.text-peach {
+  color: #FEECD0;
+}
+
+.text-ivory {
+  color: #FFF9E2;
+}
+
+.text-clay {
+  color: #DCA278;
+}
+
+.border-eucalyptus {
+  border-color: #CDD4B1;
+}
+
+.border-pistachio {
+  border-color: #EBECCC;
+}
+
+.border-peach {
+  border-color: #feecd0;
+}
+
+.border-ivory {
+  border-color: #FFF9E2;
+}
+
+.border-clay {
+  border-color: #DCA278;
+}
+
+.btn-primary {
+  background-color: #CDD4B1;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #B8C098;
+}
+
+.btn-secondary {
+  background-color: #DCA278;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #C98A65;
+}
